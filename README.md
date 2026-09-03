@@ -14,5 +14,5 @@ Hotel bookings dataset covering City and Resort hotels, 2017–2019, ~119,390 ro
 
 ## Notebook
 
-- [Full notebook (HTML export)](notebooks/Hotel_Business_using_Data_Visualization.html)
-- [Notebook source (.ipynb)](notebooks/hotel_booking_analysis.ipynb)
+- [Full notebook (HTML export)](Hotel%20Business%20using%20Data%20Visualization(1).html)
+- [Notebook source (.ipynb)](Hotel%20Business%20using%20Data%20Visualization.ipynb)
